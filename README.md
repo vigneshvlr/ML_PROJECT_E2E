@@ -18,7 +18,16 @@ git add file name for that particualr file
 ----------------------------------------
 git commit -m "simple flask"
 --------------------------------------
-git remove -v -to check the git link
+git remote -v -to check the git link
 ---------------------------
-git push orgin main to push it
+git push origin  main to push it
 -------------------------------
+git commend to learn
+https://git-scm.com/docs/gittutorial
+-------------------------------
+for CI_CD pipelines:
+heroku_mail:vigneshbalajivlr@gmail.com
+API_KEY:<>
+App_name:mlsamplecheck
+............................................
+
